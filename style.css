@@ -345,6 +345,8 @@ button:hover{color:var(--violet-color);
         width: 25vw;}
 
     .contact__rigth--large input{width: 77vw; margin: 1%}
+    
+    .footer ul{display: none;}
 }
 
 @media(min-width:900px){
