@@ -3,12 +3,11 @@ Proyecto de presentación realizado durante el cursado del primer módulo de la 
 
 Se desarrolló la estructura de un sitio web con HTML y se dieron estilos con CSS. Se incluyen todos los aprendizajes vistos durante el cursado del módulo 1: etiquetas semánticas, flexbox, diseño responsivo, formularios, selectores y pseudo selectores, animaciones y transiciones.
 
-Links para ver el sitio:
-- https://fluffy-mandazi-0144c3.netlify.app/
+Link para ver el sitio:
 - https://indra-2507.github.io/Indra-Lima/
 
 ## Estado del proyecto
-El proyecto se encuentra en construcción. Si bien la entrega para el primer módulo de la carrera esta finalizada, la página no cuenta con la información completa que indica. Al avanzar en la carrera se irá completando la información faltante.
+El proyecto fue meramente realizado a modo ilustrativo. La página no cuenta con la información completa que indica. No debe ser considerado como un portfolio.
 
 
 ## Aclaraciones
