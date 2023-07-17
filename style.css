@@ -18,10 +18,9 @@ ul{ display: flex;
     justify-content: flex-end;
 padding: 2%;}
 
-ol{margin: 1%;}
+a{margin: 1%;}
 
 .title-1{font-size: 2em;
-    height: 10vh;
     width: 100vw;
     text-align: center;
     margin: 3%;
@@ -134,7 +133,7 @@ padding: 2%;}
     /*projects*/
 
 .projects{display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-wrap: wrap;}
 
 .projects__section{display:flex;
@@ -304,11 +303,11 @@ button:hover{color:var(--violet-color);
         text-align: center;
         flex-wrap: wrap;}
 
-    .projects{margin: 0% 10%;
+    .projects{
         padding: 10%;
         display: flex;
         text-align: center;
-        justify-content:center;}
+        justify-content: space-between;}
 
     .projects__section{
         display: flex;
