@@ -156,13 +156,15 @@ padding: 2%;}
     height: 30vh;}
 
 .projects__figcaption{
-    text-transform:capitalize;
+    text-transform:none;
     text-align: center;
     width: 20vw;
     margin-top: 20%;
     color:var(--violet-color);}
 
-.projects__p{text-align: center;}
+.projects__p{
+    margin: auto;
+}
 
     /*contact*/
 
